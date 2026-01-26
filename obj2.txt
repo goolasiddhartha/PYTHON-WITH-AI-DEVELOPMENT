@@ -1,0 +1,6 @@
+16/10/25 10:26:25 PM:ERROR:integer division or modulo by zero
+Traceback (most recent call last):
+  File "c:\Users\DELL\OneDrive\Desktop\Python with AI Development\loggin_module.py", line 149, in <module>
+    res1=x1//x2
+         ~~^^~~
+ZeroDivisionError: integer division or modulo by zero

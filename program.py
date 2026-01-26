@@ -1,0 +1,18 @@
+# this is Python as program 
+print('G Siddhartha')
+print()
+print()
+print("G Siddhartha")
+print()
+print()
+print('''G Siddhartha''')
+print()
+print()
+print("""G Siddhartha""")
+print()
+print()
+name="G Siddhartha"
+print(name)
+print()
+print()
+print("This is end of Application")
